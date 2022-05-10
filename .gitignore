@@ -1,0 +1,9 @@
+# Build Files
+target/
+
+# Dependencies
+node_modules/
+
+# JetBrains
+.idea/
+*.iml
